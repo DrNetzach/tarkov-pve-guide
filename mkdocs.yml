@@ -1,8 +1,9 @@
 site_name: 塔科夫萌新PVE手册
 site_description: 逃离塔科夫PVE模式新手指南 - 从零开始的受苦之路
 site_author: B站 UID:81597119
-repo_url: https://github.com/your-username/tarkov-pve-guide
-repo_name: tarkov-pve-guide
+site_url: https://tarkov-pve-guide.pages.dev/
+repo_url: https://github.com/DrNetzach/tarkov-pve-guide
+repo_name: DrNetzach/tarkov-pve-guide
 
 theme:
   name: material

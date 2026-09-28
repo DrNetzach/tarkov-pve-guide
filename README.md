@@ -1,3 +1,4 @@
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 # 逃离塔科夫 PVE 萌新手册
 
 > 本手册面向从未接触过塔科夫的新玩家，以PVE模式为主。请在阅读前确认你已备好降压药、一颗强大的心脏，以及随时Alt+F4的觉悟。

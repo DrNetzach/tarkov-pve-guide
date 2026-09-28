@@ -1,0 +1,36 @@
+# 逃离塔科夫 PVE 萌新手册
+
+> 面向从未接触过《逃离塔科夫》新玩家的 13 章入门指南，以 PVE 模式为主，覆盖从购买注册到避坑的全流程。
+
+作者：B站 UID:81597119
+校对：B站 UID:280444140
+版本：v1.1
+数据基准：Escape from Tarkov 1.1.5.0
+最后更新：2026-09-25
+
+本手册与《逃离塔科夫百科》（七卷结构化资料）互为配套：手册管"怎么玩"，百科管"是什么"。
+
+## 章节
+
+- [第一章：受苦警告](https://tarkov-pve-guide.pages.dev/ch01/): 入门心理建设，了解你会经历什么
+- [第二章：购买与注册](https://tarkov-pve-guide.pages.dev/ch02/): 版本选择、购买渠道、注册流程
+- [第三章：基本配置与画面优化](https://tarkov-pve-guide.pages.dev/ch03/): 硬件配置、画面设置、网络优化
+- [第四章：游戏基础机制](https://tarkov-pve-guide.pages.dev/ch04/): PMC/Scav、安全箱、保险、医疗、弹药等核心机制
+- [第五章：寻找老登（社交平台），别当爷新](https://tarkov-pve-guide.pages.dev/ch05/): 找老登、提问模板、别当爷新
+- [第六章：基本的地图介绍](https://tarkov-pve-guide.pages.dev/ch06/): 全地图概览、资源分布、Boss 刷点
+- [第七章：AI 的应对方式](https://tarkov-pve-guide.pages.dev/ch07/): 各类 AI 行为模式与应对策略
+- [第八章：任务线总览](https://tarkov-pve-guide.pages.dev/ch08/): 任务系统、Kappa 容器、商人任务
+- [第九章：主线关键节点和结局必要条件](https://tarkov-pve-guide.pages.dev/ch09/): 四个结局的达成条件与抉择点
+- [第十章：商人介绍](https://tarkov-pve-guide.pages.dev/ch10/): 全商人详解、信任度系统
+- [第十一章：跳蚤市场未解锁前配装与防具推荐](https://tarkov-pve-guide.pages.dev/ch11/): 跳蚤市场解锁前的配装方案
+- [第十二章：藏身处升级物品汇总](https://tarkov-pve-guide.pages.dev/ch12/): 升级优先级、比特币矿场
+- [第十三章：萌新容易犯的错和常见老登坑害萌新手段](https://tarkov-pve-guide.pages.dev/ch13/): 萌新常见错误、老登坑人手段
+
+## 相关资源
+
+- [逃离塔科夫百科（七卷）](https://tarkov-encyclopedia-site.pages.dev/): 结构化数据参考——历史、派系、商人、Boss、地图、词条、剧情
+- [逃离塔科夫中文Wiki](https://www.eftarkov.com/): 本手册主要数据来源
+
+## 版权声明
+
+原创作品，著作权归作者所有。未经授权禁止转载、洗稿、冒充原创。如需转载请联系作者并注明出处。

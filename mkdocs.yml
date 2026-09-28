@@ -1,0 +1,88 @@
+site_name: 塔科夫萌新PVE手册
+site_description: 逃离塔科夫PVE模式新手指南 - 从零开始的受苦之路
+site_author: B站 UID:81597119
+repo_url: https://github.com/your-username/tarkov-pve-guide
+repo_name: tarkov-pve-guide
+
+theme:
+  name: material
+  language: zh
+  font:
+    text: Noto Sans SC
+    code: JetBrains Mono
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: 切换暗黑模式
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: 切换亮色模式
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.tabs.link
+    - toc.follow
+
+plugins:
+  - search:
+      lang: zh
+  - tags
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.mark
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  social:
+    - icon: fontawesome/brands/bilibili
+      link: https://space.bilibili.com/81597119
+
+nav:
+  - 首页: index.md
+  - 📖 入门篇:
+    - 第一章 受苦警告: ch01/index.md
+    - 第二章 购买与注册: ch02/index.md
+    - 第三章 配置与优化: ch03/index.md
+  - 🎮 核心机制:
+    - 第四章 游戏基础机制: ch04/index.md
+    - 第五章 社交指南: ch05/index.md
+  - 🗺️ 地图与战斗:
+    - 第六章 地图介绍: ch06/index.md
+    - 第七章 AI应对方式: ch07/index.md
+  - 📋 任务与商人:
+    - 第八章 任务线总览: ch08/index.md
+    - 第九章 主线与结局: ch09/index.md
+    - 第十章 商人介绍: ch10/index.md
+  - 🛡️ 配装与建设:
+    - 第十一章 配装推荐: ch11/index.md
+    - 第十二章 藏身处升级: ch12/index.md
+  - ⚠️ 避坑指南:
+    - 第十三章 萌新避坑指南: ch13/index.md

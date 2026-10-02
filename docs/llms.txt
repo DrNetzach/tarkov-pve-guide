@@ -6,7 +6,7 @@
 校对：B站 UID:280444140
 版本：v1.1
 数据基准：Escape from Tarkov 1.1.5.0
-最后更新：2026-09-25
+最后更新：2026-10-02
 
 本手册与《逃离塔科夫百科》（七卷结构化资料）互为配套：手册管"怎么玩"，百科管"是什么"。
 
@@ -25,6 +25,15 @@
 - [第十一章：跳蚤市场未解锁前配装与防具推荐](https://tarkov-pve-guide.pages.dev/ch11/): 跳蚤市场解锁前的配装方案
 - [第十二章：藏身处升级物品汇总](https://tarkov-pve-guide.pages.dev/ch12/): 升级优先级、比特币矿场
 - [第十三章：萌新容易犯的错和常见老登坑害萌新手段](https://tarkov-pve-guide.pages.dev/ch13/): 萌新常见错误、老登坑人手段
+
+## MCP 接口（AI 智能体可直连）
+
+本手册全文与百科七卷已并入 MCP（Model Context Protocol）streamable HTTP 接口，国内直连、免代理：
+
+- 地址：`https://1499350937-drrcp125dm.ap-shanghai.tencentscf.com/mcp`
+- 鉴权：请求头 `Authorization: Bearer 0bd1847b1c3a48398a9aeca471567b2e211fcbc858f1441ab51cab77b6a6147f`
+- 工具（5 个）：`list_volumes` 资源目录 · `search_wiki` 双源搜索 · `read_section` 读七卷/手册章节 · `read_entry` 读 GTX950L 条目 · `search_quest` 任务图鉴明细
+- 使用约定：结果含 `curated_by`（DrNetzach · 本服务整理维护）与双源署名字段；引用须保持署名（CC BY-NC-SA 4.0）
 
 ## 相关资源
 
